@@ -3,3 +3,6 @@
 
 Asennus
 - Joku kansio, Sinne laitat. Kunhan on resources kansion sisällä!
+
+
+Toimii /apua
